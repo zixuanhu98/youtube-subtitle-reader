@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/v/:videoId", "destination": "/api/page?videoId=:videoId" }
+  ]
+}

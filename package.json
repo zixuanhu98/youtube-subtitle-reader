@@ -1,0 +1,8 @@
+{
+  "name": "youtube-subtitle-reader",
+  "version": "1.0.0",
+  "description": "YouTube 字幕阅读器 - 输入视频链接，获取排版优美的字幕阅读页",
+  "scripts": {
+    "dev": "node dev-server.js"
+  }
+}
